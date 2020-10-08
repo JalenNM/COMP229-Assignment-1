@@ -8,10 +8,12 @@
       <h1 class="display-4">Welcome to <%= title %></h1>
     </div>
   </main>
-
-  <% if (title == "About Me") {%>
-    <%- include partials/about.ejs %>
-    <% }
+    
+    <% if (title == "About Me") {%>
+      <%- include partials/about.ejs %>
+      <% } else { %>
+      <% } %>
+      
  
 
 <%- include partials/bottom_nav.ejs %> 
