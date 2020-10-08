@@ -9,6 +9,11 @@
     </div>
   </main>
     
+  <% if (title == "Home") {%>
+    <%- include partials/home.ejs %>
+    <% } else { %>
+    <% } %>
+
     <% if (title == "About Me") {%>
       <%- include partials/about.ejs %>
       <% } else { %>
