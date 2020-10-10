@@ -2,14 +2,10 @@
 
 body {
   /*padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   background-color: #353A40;*/
   
-  background-image: url("/Assets/images/background.jpg");
-  background-repeat: no-repeat,;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   background-color: #919191;
-  background-position: center;
-  background-size: cover;
 }
 
 a {
