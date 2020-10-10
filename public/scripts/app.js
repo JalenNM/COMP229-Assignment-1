@@ -1,3 +1,5 @@
+/* app.js - Jalen Mendonca - 301098614 - 10/08/2020 */
+
 // IIFI -- Immediately Invoked Function Expression
 (function(){
 
